@@ -12,7 +12,7 @@ related:
 
 ## Neden bazı insanlar finansal destek ister?
 
-Açık kaynaklı çalışmaların çoğu gönüllüdür. Örneğin, birileri kullandıkları bir projede bir hatayla karşılaşabilir hızlı bir düzeltme yapabilirler veya boş zamanlarında açık kaynak kodlu bir proje ile uğraşmanın tadını çıkarabilirler.
+Açık kaynaklı çalışmaların çoğu gönüllüdür. Örneğin, insanlar kullandıkları bir projede bir hatayla karşılaştıklarında hızlı bir düzeltme yapabilirler veya boş zamanlarında açık kaynak kodlu bir proje ile uğraşmanın tadını çıkarabilirler.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
@@ -107,14 +107,14 @@ Kişisel durumunuza bağlı olarak, açık kaynaklı işinize para yatırmak iç
 
 Son olarak, bazen açık kaynaklı projeler, yardım etmeyi düşündüğünüz meselelere güçlükler getirir.
 
-* @ConnorChristie, @MARKETProtocol'un JavaScript paketlerinde [yardımcı olarak](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) gitcoin'deki bir [ödülle{/a2} para kazanabildi.](https://gitcoin.co/)
+* @ConnorChristie, @MARKETProtocol'un JavaScript paketlerinde [yardımcı olarak](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) gitcoin'deki bir [ödülle para kazanabildi.](https://gitcoin.co/)
 * @mamiM, [sorun Bounties Network'te finanse](https://explorer.bounties.network/bounty/134) edildikten sonra @MetaMask için Japonca çeviriler yaptı.
 
 ## Projeniz için finansman bulma
 
 Bireysel katılımcılar için yapılan düzenlemelerin ötesinde, bazen projeler devam eden çalışmaları finanse etmek için şirketler, bireyler veya başkalarından para toplarlar.
 
-Örgütsel finansman, projenin yürütülmesi (barındırma ücreti gibi) maliyetlerini kapsayan veya yeni özelliklere veya fikirlere yatırım yapma gibi mevcut katkı paylarını ödemeye yönelebilir.
+Kurumsal fonlama, projenin yürütülmesi (barındırma ücreti gibi) maliyetlerini kapsayan veya yeni özelliklere veya fikirlere yatırım yapma gibi mevcut katkı paylarını ödemeye yönelebilir.
 
 Açık kaynağın popülaritesi arttıkça, projelere fon bulmak için hala deneysel olmakla birlikte, birkaç seçenek vardır.
 

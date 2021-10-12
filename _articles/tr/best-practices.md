@@ -229,7 +229,7 @@ Testler eklerseniz, CONTRIBUTING dosyanızda nasıl çalıştıklarını açıkl
 
 ### Temel bakım görevlerini otomatikleştirmek için araçlar kullanın
 
-Popüler bir projeyi sürdürmenin iyi haberi, diğer geliştiricilerin de benzer sorunlarla karşı karşıya kalmaları ve bunun için bir çözüm üretmeleridir.
+Popüler bir projeyi yönetmenin en kolay yanı, diğer geliştiricilerin de benzer sorunlarla karşı karşıya kalmaları ve bunun için bir çözüm üretmeleridir.
 
 Bakım çalışmalarının bazı yönlerini otomatikleştirmeye yardımcı olacak [çeşitli araçlar vardır](https://github.com/showcases/tools-for-open-source). Birkaç örnek:
 

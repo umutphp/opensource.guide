@@ -231,7 +231,7 @@ Katkıda bulunmak istediğiniz bir proje bulduğunuzda, projenin katkıları kab
 
 İşte bir projenin yeni katılımcılar için iyi olup olmadığını değerlendirmek için kullanışlı bir kontrol listesi.
 
-**Açık kaynak tanımını karşılar**
+**Açık kaynak tanımını karşılıyor**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
